@@ -1,0 +1,7 @@
+departamentos = ("managua", "leon", "granada", "masaya", "esteli", "matagalpa", "chinandega")
+print ("primer deparatamento:",departamentos[0])
+print ("ultimo departamento:",departamentos[-1])
+print ("tercer departamento:",departamentos[2])
+print ("penultimo departamento:",departamentos[-2])
+print ('total departamentos:',len(departamentos))
+print('posicion esteli',departamentos.index('esteli'))
